@@ -1,0 +1,12 @@
+token=NDk1MTU2NTk2ODM0NTY2MTQ0.DxkW2Q.Yy3WeftW-dfR40zemZevxjadEHQ
+owner=328323964545794068
+prefix="*"
+game="MUSIC"
+status=ONLINE
+songinstatus=true
+altprefix="*"
+success="??"
+warning="??"
+error="??"
+loading="?"
+searching="??"
