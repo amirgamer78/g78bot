@@ -1,0 +1,2 @@
+java -Dconfig=myconfig.txt -Dprefix=! -jar JMusicBot-0.2.0.jar
+P
